@@ -1,0 +1,21 @@
+{
+  "name": "iscroll",
+  "version": "4.1.7",
+  "homepage": "https://github.com/Jaspersoft/iscroll",
+  "main": "src/iscroll.js",
+  "keywords": [
+    "scroll",
+    "ipad"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "bin"
+  ]
+}
